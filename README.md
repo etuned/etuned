@@ -1,7 +1,7 @@
 # Hello, I'm Edwin Bartunek, a full stack developer.
 Here is my current project I am working on:
 
-![Zombiecoin Logo](https://github.com/etuned/etuned/raw/main/images/logo.svg =90x90 "Zombiecoin Logo")
+<img src="https://github.com/etuned/etuned/raw/main/images/logo.svg" alt="Zombiecoin Logo" width="90" height="90"/>
  ### [Zombiecoin.io](https://www.zombiecoin.io)
 
 ![Villagers](https://github.com/etuned/etuned/raw/main/images/explorers.png "Zombieland Explores")
