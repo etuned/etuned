@@ -4,6 +4,6 @@
 
  We're Live at [Zombiecoin.io](https://www.zombiecoin.io)! You can learn more about the project at the [StudioX](https://www.studioxnfts.com/) website as well. 
 
-### You can view some of my code in my public repos below. If you have any questions don't hesitate to contact me on [LinkedIn](https://www.linkedin.com/in/ebartunek)
+### You can view some examples of my coding abilities in my public repos below. If you have any questions don't hesitate to contact me on [LinkedIn](https://www.linkedin.com/in/ebartunek)
  
 
