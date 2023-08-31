@@ -4,7 +4,7 @@ This is my personal github with some demo frontend apps I have created in the pa
 I also have my [work related github](https://www.linkedin.com/in/ebartunek) that is more active than my personal account. 
 
 
-### If you have any questions don't hesitate to contact me on [LinkedIn](https://www.linkedin.com/in/ebartunek)
+### If you have any questions don't hesitate to contact me on [LinkedIn](https://www.github.com/ebartunek)
  
 
  
